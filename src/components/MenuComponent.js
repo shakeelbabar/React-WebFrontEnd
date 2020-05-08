@@ -64,7 +64,7 @@ class Menu extends Component{
                         </Media>
                     </Media>
                 </div>
-            );
+            )
         })
 
         return (
